@@ -3360,6 +3360,12 @@
     margin-right: auto;
 }
 
+.style_center span iframe {
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .style_center p {
     text-align: center
 }
